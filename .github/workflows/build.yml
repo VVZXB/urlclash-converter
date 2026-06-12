@@ -1,10 +1,9 @@
-name: US
-  type: ssr
-  server: 74.48.78.13
-  port: 51301
-  password: aak87232
-  cipher: none
-  obfs: plain
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
 
 on:
   push:
