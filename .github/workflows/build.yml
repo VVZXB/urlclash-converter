@@ -1,6 +1,6 @@
 name: US
   type: ssr
-  server: 142.171.196.170
+  server: 74.48.78.13
   port: 51301
   password: aak87232
   cipher: none
