@@ -8,3 +8,5 @@ converter.bundle.js.map
 
 # Local
 *.local.*
+clash-subscription.yaml
+clash-config.yaml
