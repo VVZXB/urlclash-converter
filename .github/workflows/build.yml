@@ -1,4 +1,10 @@
-name: Deploy to GitHub Pages
+name: US
+  type: ssr
+  server: 142.171.196.170
+  port: 51301
+  password: aak87232
+  cipher: none
+  obfs: plain
 
 on:
   push:
